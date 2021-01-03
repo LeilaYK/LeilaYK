@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 패스트 캠퍼스 데이터 사이언스 스쿨 수료중  
-머신러닝 가 되기 위해 공부하고 있습니다.
+머신러닝 엔지니어가 되기 위해 공부하고 있습니다.
 
 <!--
 **LeilaYK/LeilaYK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
